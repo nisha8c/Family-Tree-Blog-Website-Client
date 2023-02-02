@@ -1,3 +1,7 @@
+# Family Tree Blog
+![familyBlog](https://user-images.githubusercontent.com/108927164/216388021-763f7b33-981c-4120-b8c1-926b34c0170f.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
